@@ -5,7 +5,7 @@ public class EmployeeCompareUpdateDemo {
 
         HashMap<Integer, String> employeeMap = new HashMap<>();
 
-        employeeMap.put(101, "Ahmed Al-Farsi");
+        employeeMap.put(101, "Ali Al-Farsi");
         employeeMap.put(102, "Sara Al-Abri");
         employeeMap.put(103, "Khalid Al-Hasani");
         employeeMap.put(104, "Muna Al-Balushi");
